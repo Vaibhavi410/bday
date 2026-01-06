@@ -139,7 +139,7 @@ function Gallery({ isActive }) {
 
   return (
     <section className="gallery">
-      <h2>📸 Look at this beauty</h2>
+      <h2>📸 Look at this Gussail aurat</h2>
       <div className="photos">
         {photos.map((photo, index) => (
           <img
